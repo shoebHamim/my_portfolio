@@ -16,6 +16,26 @@ body{
     padding-left: 4%;
 
 }
+.middle{
+    width: 40%;
+    float: left;
+    margin-left: 4%;
+    margin-top:100px;
+    padding-left: 4%;
+    
+
+}
 .intro img{
     width: 100%;
+}
+.middle img{
+    width: 100%;
+}
+.link_button{
+    text-decoration: none;
+    background-color: orange ;
+    color: white;
+    font-weight: bold;
+    padding: 7px;
+    border-radius: 7px;
 }
