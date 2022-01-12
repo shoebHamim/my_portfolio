@@ -1,0 +1,10 @@
+h1{
+    font-size: 60px;
+    font-family: 'The Nautigal', cursive;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.name_highlight{
+    color: orange;
+}
