@@ -1,10 +1,21 @@
 h1{
-    font-size: 60px;
+    font-size: 70px;
     font-family: 'The Nautigal', cursive;
 }
 body{
     font-family: 'Poppins', sans-serif;
+    
 }
 .name_highlight{
     color: orange;
+}
+.intro{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 4%;
+
+}
+.intro img{
+    width: 100%;
 }
