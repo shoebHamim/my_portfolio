@@ -3,32 +3,27 @@ h1{
     font-family: 'The Nautigal', cursive;
 }
 body{
+    margin: 0px;
     font-family: 'Poppins', sans-serif;
     
 }
-.name_highlight{
+.orange_highlight{
     color: orange;
 }
-.intro{
+.half-width{
     width: 40%;
     float: left;
     margin-left: 5%;
     padding-left: 4%;
+    height: 500px;
 
 }
-.middle{
-    width: 40%;
-    float: left;
-    margin-left: 4%;
-    margin-top:100px;
-    padding-left: 4%;
+.top_banner{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
     
-
 }
-.intro img{
-    width: 100%;
-}
-.middle img{
+.half-width img{
     width: 100%;
 }
 .link_button{
@@ -39,3 +34,44 @@ body{
     padding: 7px;
     border-radius: 7px;
 }
+section{
+    height: 500px;
+}
+.middle_banner{
+    margin-top: 160px;
+    margin-bottom:140px;
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position:right bottom;
+
+}
+.single_experience{
+    
+    margin-top: 25px;
+    border-left: 10px solid orange;
+    border-radius: 10px;
+    height: 400px;
+    width: 38%;
+    box-shadow: 10px 10px 40px grey;
+  
+
+}
+.single_experience p{
+    padding-right: 5px;
+}
+.experience{
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left ;
+    height: 600px;
+
+}
+#goal{
+    border-left: 10px solid #5e5add;
+}
+footer{
+    text-align: center;
+    font: normal;
+    font-size: 12px;
+}
+
